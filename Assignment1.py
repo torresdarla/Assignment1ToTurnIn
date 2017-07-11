@@ -23,7 +23,7 @@ print "Water: %0.2f cups." %(float(water)*float(factor))
 print "Salt: %0.2f teaspoons." %(float(salt)*float(factor))
 print "Yeast: %0.2f teaspoons." %(float(yeast)*float(factor))
 print "Happy Baking!"
-20/4
+
 print ""
 print "-- Modified Recipe in Grams--"
 print "BreadFlour: %0.2f grams." %(float(Flour)*float(factor)*120.00)
