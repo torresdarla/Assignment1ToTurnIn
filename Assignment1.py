@@ -1,5 +1,6 @@
 #Programmed by Darla Torres
 #July 10, 2017
+#This program converts initial measurements of certain baking ingredients by a factor chosen by the use. The program then displays these converted amounts in both the original measurement as well as in grams. 
 
 print "-- Original Recipe --"
 
